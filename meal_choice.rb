@@ -18,6 +18,7 @@ def dinner(food="Steak")
 end
 
 puts snacks("Grapes")
+puts snacks("Chips")
 
 
 
