@@ -20,6 +20,7 @@ end
 puts snacks("Grapes")
 puts breakfast("Cereal")
 puts lunch("Sandwich")
+puts dinner("Chicken")
 
 # call your methods here
 
