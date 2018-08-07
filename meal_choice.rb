@@ -13,13 +13,13 @@ def lunch(food="grilled cheese")
   "Any time, is the right time for #{food}!"
 end
 
-def dinner(food="Salmon")
+def dinner(food="salmon")
   "Any time, is the right time for #{food}!"
 end
 
 puts snacks("Grapes")
-
-
+puts breakfast("Cereal")
+puts lunch("Sandwich")
 
 # call your methods here
 
