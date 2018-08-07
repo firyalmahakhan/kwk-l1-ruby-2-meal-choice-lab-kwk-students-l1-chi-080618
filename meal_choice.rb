@@ -17,7 +17,7 @@ def dinner(food="Salmon")
   "Any time, is the right time for #{food}!"
 end
 
-puts snacks("Cheetos")
+puts snacks("Grapes")
 
 
 
